@@ -1,0 +1,2 @@
+include ':anySoftKeyboardAPI'
+include ':languagePackSakha'
